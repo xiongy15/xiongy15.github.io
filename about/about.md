@@ -1,8 +1,10 @@
 ---
 layout: default
 title: Ying Xiong, About
+permalink: https://xiongy15.github.io/about
 ---
 <div class="blurb">
 	<h1>Hi there, I'm Ying Xiong!</h1>
 	<p>I'm best known as the horrible cop from <em>A Touch of Evil</em> Don't trust me. 
 </div><!-- /.blurb -->
+
