@@ -10,7 +10,7 @@ nav ul, footer ul {
 }
 nav ul li, footer ul li {
     display: inline;
-    margin-right: 40px;
+    margin-right: 20px;
 }
 a {
     text-decoration: none;
@@ -25,12 +25,7 @@ h1 {
 }
 p {
     font-size: 1.4em;
-    line-height: 1.5em;
-    color: #333;
-}
-li {
-    font-size: 1.2em;
-    line-height: 1.5em;
+    line-height: 1.4em;
     color: #333;
 }
 footer {
