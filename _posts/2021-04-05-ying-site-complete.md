@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ying Xiong, Launches Site"
+title: "Ying Xiong, Site Completion"
 date: 2021-04-05
 ---
 
